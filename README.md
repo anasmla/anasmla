@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Muhammad+Usman;I'm+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Muhammad+Anas;I'm+a+Software+Engineer)](https://git.io/typing-svg)
  
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="anasmla's github profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasmla=Profile%20views&color=0e75b6&style=flat" alt="anasmla's github profile views" /> </p>
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=anasmla&theme=fantasy&show_icons=true" />
@@ -37,7 +37,7 @@
 ## Contact me:
 <div>
 <a href="https://www.instagram.com/anasmla1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: usmanmala356@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto: anasim54321@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anasmla" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
