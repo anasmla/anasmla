@@ -4,11 +4,11 @@
 <h4 align="center">- Linus Torvalds -</h4>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="musmanirfan's github profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=0e75b6&style=flat" alt="anasmla's github profile views" /> </p>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=musmanirfan&theme=fantasy&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musmanirfan&layout=compact&theme=fantasy" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=anasmla&theme=fantasy&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmla&layout=compact&theme=fantasy" />
 </div>
 
 
@@ -36,12 +36,12 @@
 
 ## Contact me:
 <div>
-<a href="https://www.instagram.com/musmanirfan1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/anasmla1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: usmanmala356@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/musmanirfan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/anasmla" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
 ------
-Credit: [musmanirfan](https://github.com/musmanirfan)
+Credit: [anasmla](https://github.com/anasmla)
 Last Edited on: 26/02/2024
