@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasmla=Profile%20views&color=0e75b6&style=flat" alt="anasmla's github profile views" /> </p>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=anasmla&theme=fantasy&show_icons=true" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=musmanirfan&theme=fantasy&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmla&layout=compact&theme=fantasy" />
 </div>
 
